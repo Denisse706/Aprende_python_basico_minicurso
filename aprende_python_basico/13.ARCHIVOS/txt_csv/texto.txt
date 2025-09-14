@@ -1,0 +1,8 @@
+este texto esta reescrito linea writelines, random
+salto de linea
+otro salto de linea, linea write
+Esto se repite (linea 1)
+Esto se repite (linea 2)
+Esto se repite (linea 3)
+Esto se repite (linea 4)
+Esto se repite (linea 5)

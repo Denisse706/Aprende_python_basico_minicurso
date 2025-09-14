@@ -1,0 +1,13 @@
+los datos son:
+Nombre:margarita
+Apellido: toretta
+----------
+Nombre:juanchito
+Apellido: demencial
+----------
+Nombre:patroclo
+Apellido: cazanova
+----------
+Nombre:teodora
+Apellido: hipanema
+----------
